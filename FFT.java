@@ -1,9 +1,12 @@
 /*********************************************
- * ANDROID SOUND PRESSURE METER APPLICATION
- * DESC   : FFT File. Taken from  
- * WEBSRC : http://www.cs.princeton.edu/introcs/97data/FFT.java.html
- * CHANGES: Commented the main method.
- *********************************************/
+ * ANDROID SOUND PRESSURE METER APPLICATION	  * ANDROID SOUND PRESSURE METER APPLICATION
+  * DESC   : FFT File. Taken from  	  * DESC   : FFT File. Taken from  
+  * WEBSRC : http://www.cs.princeton.edu/introcs/97data/FFT.java.html	 
+- * AUTHOR : hashir.mail@gmail.com	
+- * DATE   : 19 JUNE 2009	
+  * CHANGES: Commented the main method.	  * CHANGES: Commented the main method.
+  * UNTESTED 
+  *********************************************/
 
 package android.ilus.spltest.android.ilus;
 
