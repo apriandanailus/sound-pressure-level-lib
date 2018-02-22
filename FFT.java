@@ -2,8 +2,6 @@
  * ANDROID SOUND PRESSURE METER APPLICATION
  * DESC   : FFT File. Taken from  
  * WEBSRC : http://www.cs.princeton.edu/introcs/97data/FFT.java.html
- * AUTHOR : hashir.mail@gmail.com
- * DATE   : 19 JUNE 2009
  * CHANGES: Commented the main method.
  *********************************************/
 
